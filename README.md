@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jessica Kamanda</h1>
+
+
 <h3 align="center">I'm a self-taught Software Engineer from London, England with the hope of learning as much as possible to contribute to the ever-evolving world of technology in the advancements of products and services. I'm currently working on personal projects and bolstering my knowledge on everything Front-End related.</h3>
 
 <h3 align="left">Connect with me:</h3>
